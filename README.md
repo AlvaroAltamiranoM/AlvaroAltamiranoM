@@ -13,7 +13,7 @@ Economics and Data Consultant at the **Inter-American Development Bank (IDB)**. 
 - **Poverty and distributional analysis**  -  household survey microdata, multidimensional poverty measurement
 - **Applied ML and NLP**  -  text classification, skills taxonomies, web scraping for economic measurement
 
-### Tooling
+### Tools
 
 `Python` | `R` | `Stata` | `SQL` | `Machine Learning` | `NLP` | `AWS` | `Azure` | `Tableau` | `Web scraping`
 
@@ -30,7 +30,7 @@ Spanish (native) | English (fluent) | Portuguese (fluent) | French (intermediate
 | [Identifying Green Skills in Agricultural Occupations](https://github.com/AlvaroAltamiranoM/Identifying-Green-Skills-in-Agricultural-Occupations) | NLP pipeline using the ESCO taxonomy and spaCy to classify "green" skills in agricultural occupations (Colombia, Ethiopia) |
 | [Web-scraping Job Vacancies in Latin America](https://github.com/AlvaroAltamiranoM/Webscrapping-job-vacancies-in-Latin-America) | Scraping and ML pipeline building a vacancy time series with skill-content indicators |
 | [Sentiment Analysis of Pension Reform](https://github.com/AlvaroAltamiranoM/Sentiment-analysis-of-pension-reform) | NLP and ML sentiment classification of ~174k tweets on Brazil's 2019 pension reform |
-| [US Census APIs & Retirement Dashboard](https://github.com/AlvaroAltamiranoM/US-Census.gov-APIS-and-Retirement-Dashboard) | Demographic and retirement dashboard built on American Community Survey data |
+| [Walmart Consumer Price Index](https://github.com/AlvaroAltamiranoM/Walmart_Consumer_Price_Index) | Python-Selenium crawler scraping Walmart grocery prices to build an alternative CPI for countries with unreliable official inflation statistics |
 
 ---
 
