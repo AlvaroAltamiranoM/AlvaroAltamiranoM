@@ -15,7 +15,7 @@ Economics and Data Consultant at the **Inter-American Development Bank (IDB)**. 
 
 ### Tooling
 
-`Python` | `R` | `Stata` | `SQL` | `Machine Learning` | `NLP (spaCy, NLTK)` | `AWS` | `Azure` | `Tableau` | `Web scraping`
+`Python` | `R` | `Stata` | `SQL` | `Machine Learning` | `NLP` | `AWS` | `Azure` | `Tableau` | `Web scraping`
 
 ### Languages
 
