@@ -37,6 +37,6 @@ Spanish (native) | English (fluent) | Portuguese (fluent) | French (intermediate
 ### Connect
 
 - Writing: [alvaroeconomia.blog](http://alvaroeconomia.blog) | [Medium](https://ajaltamiranomontoya.medium.com/)
-- [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=z84o48QAAAAJ&hl=en)) | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/alvaro-altamirano-montoya-b3857659/?locale=en))
+- [Google Scholar](https://scholar.google.com/citations?user=z84o48QAAAAJ&hl=en)) | [LinkedIn](https://www.linkedin.com/in/alvaro-altamirano-montoya-b3857659/?locale=en)
 - Based in Washington, DC
 
