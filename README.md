@@ -9,7 +9,7 @@ Economics and Data Consultant at the **Inter-American Development Bank (IDB)**. 
 ### Focus areas
 
 - **Energy economics and subsidy policy**  -  household energy consumption, fossil fuel revenue recycling, input-output modeling of price reforms
-- **Labor markets and pensions**  -  social security simulation, redistributive analysis, workforce development across 20+ LAC countries
+- **Labor markets and pensions**  -  social security and actuarial models simulation, redistributive analysis, workforce development across 20+ LAC countries
 - **Poverty and distributional analysis**  -  household survey microdata, multidimensional poverty measurement
 - **Applied ML and NLP**  -  text classification, skills taxonomies, web scraping for economic measurement
 
