@@ -27,10 +27,10 @@ Spanish (native) | English (fluent) | Portuguese (fluent) | French (intermediate
 
 | Project | Description |
 |---|---|
-| [Identifying Green Skills in Agricultural Occupations](https://github.com/AlvaroAltamiranoM/Identifying-Green-Skills-in-Agricultural-Occupations) | NLP pipeline using the ESCO taxonomy and spaCy to classify "green" skills in agricultural occupations (Colombia, Ethiopia) |
-| [Web-scraping Job Vacancies in Latin America](https://github.com/AlvaroAltamiranoM/Webscrapping-job-vacancies-in-Latin-America) | Scraping and ML pipeline building a vacancy time series with skill-content indicators |
 | [Sentiment Analysis of Pension Reform](https://github.com/AlvaroAltamiranoM/Sentiment-analysis-of-pension-reform) | NLP and ML sentiment classification of ~174k tweets on Brazil's 2019 pension reform |
-| [Walmart Consumer Price Index](https://github.com/AlvaroAltamiranoM/Walmart_Consumer_Price_Index) | Python-Selenium crawler scraping Walmart grocery prices to build an alternative CPI for countries with unreliable official inflation statistics |
+| [Walmart Consumer Price Index](https://github.com/AlvaroAltamiranoM/Walmart_Consumer_Price_Index) | Python-Selenium crawler scraping Walmart grocery prices to build an alternative CPI for countries with unreliable official inflation statistics || [Identifying Green Skills in Agricultural Occupations](https://github.com/AlvaroAltamiranoM/Identifying-Green-Skills-in-Agricultural-Occupations) | NLP pipeline using the ESCO taxonomy and spaCy to classify "green" skills in agricultural occupations (Colombia, Ethiopia) |
+| [Web-scraping Job Vacancies in Latin America](https://github.com/AlvaroAltamiranoM/Webscrapping-job-vacancies-in-Latin-America) | Scraping and ML pipeline building a vacancy time series with skill-content indicators |
+
 
 ---
 
